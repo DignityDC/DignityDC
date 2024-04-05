@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DignityDC</h1>
 <h3 align="center">A lua developer from Sweden.</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Assembly (Because I'm stupid)**
 
 - 💬 Ask me about **lua**
 
