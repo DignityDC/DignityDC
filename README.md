@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Assembly (Because I'm stupid)**
 
-- 💬 Ask me about A.NET (A#/A sharp)
+- 💬 Ask me about
+  **A.NET (A#/A sharp)
 A-0 System
 A+ (A plus)
 ABAP
@@ -711,7 +712,7 @@ ZetaLisp
 Zig
 Zonnon
 ZOPL
-ZPL
+ZPL**
 
 - 📫 How to reach me **dignitydcgit@gmail.com**
 
