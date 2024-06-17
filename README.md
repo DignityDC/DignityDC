@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Assembly (Because I'm stupid)**
 
-- 💬 Ask me about
-  **A.NET (A#/A sharp)
+- 💬 **Ask me about**
+  A.NET (A#/A sharp)
 A-0 System
 A+ (A plus)
 ABAP
@@ -712,11 +712,11 @@ ZetaLisp
 Zig
 Zonnon
 ZOPL
-ZPL**
+ZPL
 
-- 📫 How to reach me **dignitydcgit@gmail.com**
+- 📫 How to reach me **dont**
 
-- ⚡ Fun fact **I'm funny.**
+- ⚡ Fun fact **I use chatgpt for all my skills.**
 
 <h3 align="left">Connect with me:</h3>
 NO THANKS YOU
