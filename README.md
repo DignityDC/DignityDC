@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DignityDC</h1>
-<h3 align="center">A lua developer from Sweden.</h3>
+<h3 align="center">A everything developer from ChatGPT.</h3>
 
-- 🌱 I’m currently learning **Assembly (Because I'm stupid)**
+- 🌱 I’m currently learning **Rust (Not the coding language)**
 
 - 💬 **Ask me about**
   A.NET (A#/A sharp)
