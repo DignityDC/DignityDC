@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DignityDC</h1>
-<h3 align="center">A everything developer from ChatGPT.</h3>
+<h3 align="center">A everything developer from my own country</h3>
 
 - 🌱 I’m currently learning **Rust (Not the coding language)**
 
